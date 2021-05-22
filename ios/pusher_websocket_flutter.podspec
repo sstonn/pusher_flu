@@ -18,6 +18,6 @@ Pusher Flutter Client
   s.dependency 'Flutter'
   s.dependency 'PusherSwift', '9.2.2'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 end
 
